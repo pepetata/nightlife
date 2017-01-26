@@ -1,0 +1,28 @@
+.ng-invalid.ng-dirty {
+	border-color: #FA787E;
+}
+.ng-valid.ng-dirty {
+	border-color: #78FA89;
+}
+
+.error {
+	color:red;
+}
+.pollbody {
+	width: 60%;
+	margin: auto;
+}
+table {
+	 table-layout: fixed;
+	 width: 100%;
+	 font-size: 20px;
+}
+li {
+	list-style-type: none;
+}
+.btn {
+	margin-right: 10px;
+}
+footer {
+  font-style: italic;
+}

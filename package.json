@@ -1,0 +1,24 @@
+{
+  "name": "nightlife",
+  "version": "1.0.0",
+  "description": "A chat example to showcase how to use `socket.io` with a static `express` server with `async` for control flow.",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": ".git"
+  },
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "async": "~0.2.8",
+    "body-parser": "^1.16.0",
+    "express": "^3.2.6",
+    "mongodb": "^2.2.22",
+    "socket.io": "~0.9.14",
+    "yelp": "^1.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "license": "ISC"
+}
