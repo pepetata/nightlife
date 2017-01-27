@@ -9,11 +9,16 @@
   },
   "author": "Mostafa Eweda <mo.eweda@gmail.com>",
   "dependencies": {
-    "async": "~0.2.8",
+    "angular": "^1.6.1",
+    "angularjs": "0.0.1",
+    "async": "^0.2.10",
     "body-parser": "^1.16.0",
-    "express": "^3.2.6",
+    "clementinejs-fcc": "git+https://github.com/johnstonbl01/clementinejs-fcc.git",
+    "express": "^4.14.0",
     "mongodb": "^2.2.22",
+    "pug": "^2.0.0-beta9",
     "socket.io": "~0.9.14",
+    "stylus": "^0.54.5",
     "yelp": "^1.0.2"
   },
   "scripts": {
